@@ -140,19 +140,34 @@
 
 ---
 
----
+
 
 ### ☕ **Retail Sales Intelligence: 29.8% Growth Attribution**
+
 **Challenge:** Multi-location coffee chain needed operational optimization insights  
 **Solution:** Analyzed 20K+ transactions with advanced SQL + interactive Power BI dashboard  
+
 **Impact:**
 - Tracked **$99K monthly sales** across multiple performance dimensions
 - Identified **peak revenue windows** (8-10 AM: $12K-$13K) for staffing optimization
-- Revealed product mix (Coffee: 38.7%, Tea: 28.2%) for inventory planning
+- Revealed **product mix** (Coffee: 38.7%, Tea: 28.2%) for inventory planning
 - Built **weekday/weekend split analysis** (74% vs 26%) for targeted marketing
 
-**Tech:** MySQL (15+ advanced queries), Power BI (Heat maps, Calendar views), MoM Growth Automation  
-🔗 [View Dashboard](link) | [GitHub Repo](link)
+**Tech:** MySQL (15+ advanced queries), Power BI (Heat maps, Calendar views), MoM Growth Automation
+
+#### 📊 Dashboard Preview
+
+<div align="center">
+
+[![Coffee Shop Sales Dashboard](https://raw.githubusercontent.com/Data-Sherlock/coffee-shop-sales-dashboard-/main/Coffe%20shop%20sales%20analysis..png)](https://github.com/Data-Sherlock/coffee-shop-sales-dashboard-/blob/main/Coffe%20shop%20sales%20analysis..png)
+
+[![View Repository](https://img.shields.io/badge/GitHub-Full%20Project-181717?style=for-the-badge&logo=github)](https://github.com/Data-Sherlock/coffee-shop-sales-dashboard-)
+[![View Dashboard](https://img.shields.io/badge/Dashboard-High%20Resolution-0078D4?style=for-the-badge&logo=powerbi&logoColor=white)](https://github.com/Data-Sherlock/coffee-shop-sales-dashboard-/blob/main/Coffe%20shop%20sales%20analysis..png)
+[![SQL Queries](https://img.shields.io/badge/SQL-15%2B%20Queries-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Data-Sherlock/coffee-shop-sales-dashboard-)
+
+</div>
+
+
 
 ---
 
