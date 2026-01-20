@@ -81,7 +81,7 @@
 - Built **3-phase action plan** projecting **$386K-$558K Year 1 recovery** (172-248% net ROI)
 
 **Tech:** MySQL (CTEs, Window Functions), Power BI (DAX, Drill-through), Payment Benchmarking  
-🔗 [View Dashboard](link) | [GitHub Repo](link)
+🔗 [View Dashboard]([link](https://github.com/Data-Sherlock/Health-Insurance-Analytics/blob/main/Health%20Insurance%20Analytics.png)) | [GitHub Repo]([link](https://github.com/Data-Sherlock/Health-Insurance-Analytics))
 
 ---
 
