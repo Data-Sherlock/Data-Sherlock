@@ -86,16 +86,59 @@
 ---
 
 ### 📰 **Media Digital Transformation: Reversing 53% Circulation Decline**
+
 **Challenge:** 70-year-old newspaper (Bharat Herald) facing extinction — 1.2M to 560K circulation drop  
 **Solution:** Engineered Digital Relaunch Priority Index using multi-year trend analysis  
+
 **Impact:**
 - Identified **Kanpur as #1 digital opportunity** (75.1% Readiness Score)
 - Mapped **₹1.6bn ad revenue** dependencies for spend optimization
 - Recommended **WhatsApp PDF delivery** to capture 68% smartphone market
 - Created city-level prioritization framework for **staged digital migration**
 
-**Tech:** MySQL (Window Functions, LAG/RANK), Power BI (6-module dashboard), Star Schema Modeling  
-🔗 [View Analysis](link) | [GitHub Repo](link)
+**Tech:** MySQL (Window Functions, LAG/RANK), Power BI (6-module dashboard), Star Schema Modeling
+
+#### 📊 Dashboard Suite - 4 Analysis Modules
+
+<table>
+  <tr>
+    <td width="50%">
+      <b>📈 Ad Revenue Analysis</b><br>
+      <a href="https://github.com/Data-Sherlock/media-sector-strategic-analytics/blob/main/Ad%20Revenue.png">
+        <img src="https://raw.githubusercontent.com/Data-Sherlock/media-sector-strategic-analytics/main/Ad%20Revenue.png" width="100%"/>
+      </a>
+    </td>
+    <td width="50%">
+      <b>💻 Digital Performance</b><br>
+      <a href="https://github.com/Data-Sherlock/media-sector-strategic-analytics/blob/main/Digital%20Perfromance%20.png">
+        <img src="https://raw.githubusercontent.com/Data-Sherlock/media-sector-strategic-analytics/main/Digital%20Perfromance%20.png" width="100%"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>📰 Print Performance</b><br>
+      <a href="https://github.com/Data-Sherlock/media-sector-strategic-analytics/blob/main/Print%20Performance.png">
+        <img src="https://raw.githubusercontent.com/Data-Sherlock/media-sector-strategic-analytics/main/Print%20Performance.png" width="100%"/>
+      </a>
+    </td>
+    <td width="50%">
+      <b>🎯 Relaunch Prioritization</b><br>
+      <a href="https://github.com/Data-Sherlock/media-sector-strategic-analytics/blob/main/Relaunch%20Priortization.png">
+        <img src="https://raw.githubusercontent.com/Data-Sherlock/media-sector-strategic-analytics/main/Relaunch%20Priortization.png" width="100%"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+[![View Repository](https://img.shields.io/badge/GitHub-Complete%20Project-181717?style=for-the-badge&logo=github)](https://github.com/Data-Sherlock/media-sector-strategic-analytics)
+[![View Analysis](https://img.shields.io/badge/Documentation-Read%20Full%20Report-00D084?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Data-Sherlock/media-sector-strategic-analytics#readme)
+
+</div>
+
+---
 
 ---
 
