@@ -102,28 +102,28 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <b>📈 Ad Revenue Analysis</b><br>
+    <td width="50%" align="center">
+      <b>📈 Ad Revenue Analysis</b><br><br>
       <a href="https://github.com/Data-Sherlock/media-sector-strategic-analytics/blob/main/Ad%20Revenue.png">
         <img src="https://raw.githubusercontent.com/Data-Sherlock/media-sector-strategic-analytics/main/Ad%20Revenue.png" width="100%"/>
       </a>
     </td>
-    <td width="50%">
-      <b>💻 Digital Performance</b><br>
+    <td width="50%" align="center">
+      <b>💻 Digital Performance</b><br><br>
       <a href="https://github.com/Data-Sherlock/media-sector-strategic-analytics/blob/main/Digital%20Perfromance%20.png">
         <img src="https://raw.githubusercontent.com/Data-Sherlock/media-sector-strategic-analytics/main/Digital%20Perfromance%20.png" width="100%"/>
       </a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <b>📰 Print Performance</b><br>
-      <a href="https://github.com/Data-Sherlock/media-sector-strategic-analytics/blob/main/Print%20Performance.png">
-        <img src="https://raw.githubusercontent.com/Data-Sherlock/media-sector-strategic-analytics/main/Print%20Performance.png" width="100%"/>
+    <td width="50%" align="center">
+      <b>📰 Print Performance</b><br><br>
+      <a href="https://github.com/Data-Sherlock/media-sector-strategic-analytics/blob/main/Print%20Performance%20.png">
+        <img src="https://raw.githubusercontent.com/Data-Sherlock/media-sector-strategic-analytics/main/Print%20Performance%20.png" width="100%"/>
       </a>
     </td>
-    <td width="50%">
-      <b>🎯 Relaunch Prioritization</b><br>
+    <td width="50%" align="center">
+      <b>🎯 Relaunch Prioritization</b><br><br>
       <a href="https://github.com/Data-Sherlock/media-sector-strategic-analytics/blob/main/Relaunch%20Priortization.png">
         <img src="https://raw.githubusercontent.com/Data-Sherlock/media-sector-strategic-analytics/main/Relaunch%20Priortization.png" width="100%"/>
       </a>
