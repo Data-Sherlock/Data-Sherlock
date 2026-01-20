@@ -72,17 +72,33 @@
 ## 🏆 Featured Client Projects
 
 ### 💊 **Healthcare Claims Analytics: $319K Recovery Engineering**
+
+<div align="center">
+
+[![Healthcare Claims Dashboard](https://raw.githubusercontent.com/Data-Sherlock/Health-Insurance-Analytics/main/Health%20Insurance%20Analytics.png)](https://github.com/Data-Sherlock/Health-Insurance-Analytics/blob/main/Health%20Insurance%20Analytics.png)
+
+</div>
+
 **Challenge:** Regional health insurer losing $514K annually in denied/unpaid claims  
 **Solution:** Built comprehensive MySQL + Power BI analytics platform with Payment Efficiency Index  
+
 **Impact:**
 - Identified **4 critical intervention points** with **640-730% ROI**
 - Discovered single code pair driving **$85K in spend** → **$14.6K savings**
 - Exposed **$53K emergency services recovery** opportunity
 - Built **3-phase action plan** projecting **$386K-$558K Year 1 recovery** (172-248% net ROI)
 
-**Tech:** MySQL (CTEs, Window Functions), Power BI (DAX, Drill-through), Payment Benchmarking  
-[![View Dashboard](https://img.shields.io/badge/Dashboard-View%20Image-0078D4?style=for-the-badge&logo=powerbi&logoColor=white)](https://github.com/Data-Sherlock/Health-Insurance-Analytics/blob/main/Health%20Insurance%20Analytics.png)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Data-Sherlock/Health-Insurance-Analytics)
+**Tech:** MySQL (CTEs, Window Functions), Power BI (DAX, Drill-through), Payment Benchmarking
+
+<div align="center">
+
+[![View Repository](https://img.shields.io/badge/GitHub-Full%20Project-181717?style=for-the-badge&logo=github)](https://github.com/Data-Sherlock/Health-Insurance-Analytics)
+[![View Dashboard](https://img.shields.io/badge/Dashboard-High%20Resolution-0078D4?style=for-the-badge&logo=powerbi&logoColor=white)](https://github.com/Data-Sherlock/Health-Insurance-Analytics/blob/main/Health%20Insurance%20Analytics.png)
+[![SQL Queries](https://img.shields.io/badge/SQL-Advanced%20Analysis-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Data-Sherlock/Health-Insurance-Analytics)
+
+</div>
+
+---
 ---
 
 ### 📰 **Media Digital Transformation: Reversing 53% Circulation Decline**
@@ -212,19 +228,9 @@ Initial consultation → Scope definition → Data architecture → Dashboard/An
 **Industries Served:**  
 Healthcare • Finance • Retail • Media • Policy/Government • Economic Research
 
----
 
-## 📊 GitHub Performance
 
-<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Data-Sherlock&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Data-Sherlock&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Data-Sherlock&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-</div>
 
 ---
 
