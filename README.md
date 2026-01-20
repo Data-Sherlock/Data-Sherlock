@@ -1,4 +1,4 @@
-# 📊 Ahmed Rafi | Data Analytics Engineer & Economic Insights Specialist
+# 📊 Ahmed Rafi | Data Analyst & Economic Insights Specialist
 
 > *Turning complex data into $500K+ business impact through advanced analytics, visualization, and strategic insights*
 
